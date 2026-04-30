@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  background-color: #0b0c2a;
+  color: white;
+  text-align: center;
+}
+
+#cosmicMessageBoard {
+  border: 1px solid white;
+  height: 300px;
+  overflow-y: scroll;
+  margin: 20px;
+  padding: 10px;
+}
+
+input {
+  padding: 10px;
+  width: 60%;
+}
+
+button {
+  padding: 10px;
+  background-color: purple;
+  color: white;
+  border: none;
+}
